@@ -1,3 +1,23 @@
+# namespaces
+```
+var_a = system
+var_b = player
+var_c = monsters
+var_d = 
+var_e = entities
+var_f = 
+var_g = 
+var_h = 
+var_i = (local) buffer
+var_j = (local) buffer
+var_k = 
+var_l = input buffer (→↓←↑ABKd)
+var_m = map
+var_n = 
+var_o = (local) output buffer
+```
+
+# spec
 ```
 var_m      - map
 var_i      - (local) buffer
@@ -8,7 +28,7 @@ var_a[0]      - time constants
 var_a[0][0]      - delta time
 var_a[0][1]      - elapsed
 var_a[0][2]      - 1000/fps = tick interval
-var_l      - input buffer (>V<^ABKd)
+var_l      - input buffer (→↓←↑ABKd)
 var_l[0]      - →
 var_l[1]      - ↓
 var_l[2]      - ←
