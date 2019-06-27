@@ -47,7 +47,7 @@ var_b[2]      - state
 var_b[2][0]      - current cooldown
 var_b[2][1]      - enum action mode/ status effect (normal, strafe, channel, stun, guard)
 var_b[2][2]      - (hp, maxhp)
-var_b[2][2][0]      - (hp, maxhp)
-var_b[2][2][1]      - (hp, maxhp)
+var_b[2][2][0]      - hp
+var_b[2][2][1]      - maxhp
 var_b[3]      - player / monster specific variables
 ```
