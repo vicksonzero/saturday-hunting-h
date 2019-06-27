@@ -15,6 +15,23 @@ var_l = input buffer (→↓←↑ABKd)
 var_m = map
 var_n = 
 var_o = (local) output buffer
+
+f1  = general entities (move / rotate / strafe etc)
+f2  = player methods
+f3  = monster methods
+f4  = trees methods
+f5  = 
+f6  = 
+f7  = 
+f8  = 
+f9  = 
+f10 = 
+f11 = 
+f12 = 
+f13 = 
+f14 = 
+f15 = 
+f16 = 
 ```
 
 # spec
