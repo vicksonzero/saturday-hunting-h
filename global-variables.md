@@ -1,5 +1,8 @@
 ```
 var_m      - map
+var_i      - (local) buffer
+var_j      - (local) buffer
+var_o      - (local) output buffer
 var_a      - system
 var_a[0]      - time constants
 var_a[0][0]      - delta time
