@@ -1,0 +1,28 @@
+- var_a = system
+  - 0=time constants
+    - 0=delta time
+    - 1=elapsed
+    - 2= 1000/fps = tick interval
+- var_m = map
+- var_l = input buffer (>V<^ABKd)
+  - 0-5 all 6 buttons (>V<^AB)
+  - 6=K=Konami code progress
+  - 7=d=direction to delta mapping (0 to `[1,0]`, 1 to `[1,1]`, etc)
+  - 8=hand graphics (>  V  <  ^ )
+- var_b = player
+  - 0=config
+    - 0=player icon
+    - 1=cooldown config list
+      - 0=move cooldown
+      - 1=rotate cooldown
+  - 1=transform
+    - 0=x
+    - 1=y
+    - 2=rotation-8
+    - 3=width
+    - 4=height
+  - 2=state
+    - 0=current cooldown
+    - 1=action mode/ status effect (normal, strafe, channel, stun, guard
+    - 2=(hp, maxhp)
+  - 3= player / monster specific variables
