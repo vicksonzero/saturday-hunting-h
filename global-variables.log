@@ -1,4 +1,4 @@
-```
+
 var_m      - map
 var_a      - system
 var_a[0]      - time constants
@@ -50,4 +50,4 @@ var_b[2][2]      - (hp, maxhp)
 var_b[2][2][0]      - (hp, maxhp)
 var_b[2][2][1]      - (hp, maxhp)
 var_b[3]      - player / monster specific variables
-```
+
